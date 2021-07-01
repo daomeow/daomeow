@@ -1,5 +1,4 @@
 # daomeow
 
 
-(https://via.placeholder.com/468x60?text=Hi,+nice+to+meet+you)
-
+![](https://via.placeholder.com/350x90/000000/FFFFFF/?text=Hi,+I'm+Melanie)
