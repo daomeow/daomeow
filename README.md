@@ -1,4 +1,4 @@
-![](https://via.placeholder.com/350x90/000000/FFFFFF/?text=Hi,+I'm+Melanie) ![Welcome GIF](https://i.imgur.com/VnCaMsq.gif)
+# Hi, I'm Melanie ![Welcome GIF](https://i.imgur.com/VnCaMsq.gif)
 
 ![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=daomeow&show_icons=true&theme=dracula)
 
